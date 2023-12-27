@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c50b939b.css",
+    "main.js": "/static/js/main.a25e6009.js",
+    "static/js/787.6ef159ac.chunk.js": "/static/js/787.6ef159ac.chunk.js",
+    "static/media/meeting.png": "/static/media/meeting.9bae4c462a472d5245f8.png",
+    "static/media/Spinner.gif": "/static/media/Spinner.45d3e801558c5f05d67f.gif",
+    "static/media/instagram-live.png": "/static/media/instagram-live.3b157f62c9eb55073649.png",
+    "static/media/musica.png": "/static/media/musica.106a921619b0f9d8c8f1.png",
+    "static/media/user.png": "/static/media/user.babaa402ba9cf35348e3.png",
+    "static/media/kpi.png": "/static/media/kpi.32458b4728b782dba520.png",
+    "static/media/buildings.png": "/static/media/buildings.dd877b368b705fb91614.png",
+    "static/media/timetable.png": "/static/media/timetable.0e0091736c8dc96ca846.png",
+    "static/media/document.png": "/static/media/document.291fec143846667e3a34.png",
+    "static/media/instagram.png": "/static/media/instagram.e806b175264d14476c7e.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.c50b939b.css.map": "/static/css/main.c50b939b.css.map",
+    "main.a25e6009.js.map": "/static/js/main.a25e6009.js.map",
+    "787.6ef159ac.chunk.js.map": "/static/js/787.6ef159ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c50b939b.css",
+    "static/js/main.a25e6009.js"
+  ]
+}

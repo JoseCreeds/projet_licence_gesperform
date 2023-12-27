@@ -1,0 +1,116 @@
+
+
+@media only screen and (max-width: 1100px) {
+    .contain_home_template_one{
+        display: flex;
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        font-size: 13px;
+        color:black;
+        margin-bottom: 2%;
+    }
+    .contain_home_template_two{
+        display: flex;
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        font-size: 13px;
+        color:black;
+        margin-bottom: 5%;
+    }
+    .contain_home_template_three{
+        display: flex;
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        font-size: 13px;
+        color:black;
+        margin-bottom: 5%;
+    }
+    .contain_home_template{
+        margin-top: 15%;
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+    }
+    
+    .separator{
+        margin-bottom: 3%;
+        border-radius: 5px;
+        width:35%;
+        border:solid;
+        border-width:2px;
+        background-color: black;
+        height: 0px;
+        border-color: black;
+    }
+    
+    .home_img{
+        width:40%;
+    }
+    
+}
+
+
+
+@media only screen and (min-width: 1101px) {
+    .home_img{
+        width:40%;
+    }
+    .contain_home_template_one{
+        display: flex;
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        font-size: 13px;
+        color:black;
+        margin-bottom: 1%;
+    }
+    .contain_home_template_two{
+        display: flex;
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        font-size: 13px;
+        color:black;
+        margin-bottom: 5%;
+    }
+    .contain_home_template_three{
+        display: flex;
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        font-size: 13px;
+        color:black;
+        margin-bottom: 5%;
+    }
+    .contain_home_template{
+        margin-top: 5%;
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+    }
+    
+    .separator{
+        margin-bottom: 3%;
+        border-radius: 5px;
+        width:20%;
+        height: 0px;
+        border:solid;
+        background-color: black;
+        border-width:3px;
+        border-color: black;
+    }
+    
+}
